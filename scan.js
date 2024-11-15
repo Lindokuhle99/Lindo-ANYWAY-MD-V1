@@ -53,7 +53,7 @@ const date = moment().format('DD/MM/YYYY');
  `;
     
 let menuMsg = `
-> Made by : ©Ibrahim Adams 
+> Made by : ©Lindokuhle Designs 
 `;
 
    var lien = mybotpic();
